@@ -1,4 +1,4 @@
-Instructions:
+#Instructions:
 
 1. Run: make
 2. Install the module using: sudo insmod keylogger.ko
